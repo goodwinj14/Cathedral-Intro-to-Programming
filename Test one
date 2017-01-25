@@ -1,0 +1,14 @@
+https://goo.gl/forms/Z0TOoHkNOphU3Wo52
+
+Sting first_Name = "NA";
+String last_Name = "NA;
+
+System.out.println first_Name;
+System.out.println last_Name;
+
+Scanner scan_Name = new Scanner(System.in);
+frist_Name = scan.nextLine();
+last_Name = scan.nextLine();
+
+System.out.println( "Hello, " + first_Name + " " + last_Name);
+
