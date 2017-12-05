@@ -1,0 +1,34 @@
+"
+<html>
+    <head>
+        <title>
+8S student Skills
+        </title>
+    
+    </head>
+    
+    <body style="background-color:#b8b9ba">
+    
+    <!--Header Starts -->    
+    <div style="height:20%; width:100%; background-color:#b5c6e0; color:#31363f">
+        <center>
+        <br>
+        <h1>8S Student Skill</h1>
+        </center>
+    </div>
+    <!--Header Ends -->  
+        
+    <div style="height:80%; width:50%; background-color:#b5c6e0; color:#31363f; float: left;">
+    </div>
+    <div style="height:80%; width:50%; background-color:#b5c6e0; color:red; float: right;">
+    </div>
+        
+    
+    
+    
+    
+    
+    
+    </body>
+    
+</html>"
